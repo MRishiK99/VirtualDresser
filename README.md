@@ -10,6 +10,6 @@ GPU based processing will be a lot faster but the used version has no proper sup
 So this project execution is painfully slow
 
 Tools you may find useful:
-\n photopea.com
-\n activepresenter.com
+ photopea.com
+ activepresenter.com
   ...
