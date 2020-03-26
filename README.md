@@ -8,3 +8,8 @@ Frontend is done with py tkinter
 
 GPU based processing will be a lot faster but the used version has no proper support for gpu
 So this project execution is painfully slow
+
+Tools you may find useful:
+  photopea.com
+  activepresenter.com
+  ...
